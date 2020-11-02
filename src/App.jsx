@@ -8,7 +8,7 @@ const Wrapper = styled.div`
   justify-content: center;
   text-align: center;
   align-items: center;
-  margin: 25% 0;
+  margin: 35% 0;
   flex-grow: 1;
 `;
 
